@@ -1,0 +1,8 @@
+{
+  "name": "wecord",
+  "version": "1.0.0",
+  "repository": "https://github.com/JunilHwang/wecord.git",
+  "author": "junilHwang <junil.h@kakao.com>",
+  "license": "MIT",
+  "workspaces": ["wecord-front"]
+}
